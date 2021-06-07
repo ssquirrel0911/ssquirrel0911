@@ -1,0 +1,4 @@
+- Hi, I’m Samantha,
+- I work with Java and Python development.Some IDEs that I have used specifically for Java is Android. I also work with Game Engines as well: LOVE2D.
+- I am currently working on projects to build my portfolio too
+- 📫 How to reach me: samanthasquirrel0911@gmail.com
